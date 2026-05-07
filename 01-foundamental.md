@@ -1,3 +1,4 @@
+WHAT IS AN OPERATING SYSTEM
 An Operating System(OS) is a software that manages and handles hardware and software resources of a computing device.
 
 Manages computer resources such as CPU, memory, and files
