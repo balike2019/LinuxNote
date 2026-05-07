@@ -11,27 +11,26 @@ Examples include Linux, Unix, Windows 11, MS-DOS, Android, macOS, and iOS
 
 An operating system is always running in the background to manage and coordinate the use of hardware resources among system and application programs for multiple users. The OS itself is not only a user interface. Instead, it provides an interface for user interaction, typically through:
 
-Command-Line Interface (CLI), (e.g., Bash, PowerShell)
-Graphical User Interface (GUI), (e.g., Windows desktop, macOS Finder)
+-Command-Line Interface (CLI), (e.g., Bash, PowerShell)
+-Graphical User Interface (GUI), (e.g., Windows desktop, macOS Finder)
 Note: At the core of the OS lies the Kernel, which is the primary interface between hardware and software which handles low-level operations such as process management, memory management, file system control and device handling.
-Types of Operating Systems
-Last Updated : 23 Apr, 2026
-An operating system (OS) is software that manages computer hardware and software resources. It acts as a bridge between users and the computer, ensuring smooth operation. Different types of OS serve different needs; some handle one task at a time, while others manage multiple users or real-time processes.
 
-Types of Operating System
-1. Batch operating System
+TYPES OF OPERATING SYSTEM
+
+1. BATCH operating System
 A Batch Operating System is designed to handle large groups of similar jobs efficiently. It does not interact with the computer directly but instead processes jobs that are grouped by an operator. These jobs are queued and executed one after the other, without user interaction during the process.
 Executes a group of similar jobs automatically in batches without user interaction.
+
 Advantages
 -Minimal Idle Time: The system minimizes idle time by processing jobs in a continuous sequence without human intervention.
 -Handling Repetitive Tasks: Ideal for managing large, repetitive tasks, such as payroll and billing, with minimal effort.
 -Improved Throughput: Batch systems can handle high volumes of jobs at once, improving overall system throughput.
-Disadvantages
-Inefficient CPU Utilization: When a job is waiting for input/output (I/O), the CPU remains idle, leading to poor utilization of resources.
-Increased Response Time: The time between job submission and output can be high as all jobs are processed sequentially.
-Lack of Real-Time Feedback: Users cannot interact with the system in real-time, making it less suitable for interactive tasks.
-Examples: 
 
+Disadvantages
+-Inefficient CPU Utilization: When a job is waiting for input/output (I/O), the CPU remains idle, leading to poor utilization of resources.
+-Increased Response Time: The time between job submission and output can be high as all jobs are processed sequentially.
+-Lack of Real-Time Feedback: Users cannot interact with the system in real-time, making it less suitable for interactive tasks.
+Examples: 
 Insurance Claim Processing  
 Library Book Records 
 Stock Market Reports  
@@ -54,7 +53,7 @@ Railway servers
 Billing machines
 3. Multi-tasking/Time-sharing Operating systems
 Multitasking OS is a type of multiprogramming system where each process runs in a round-robin manner. Every task gets a fixed time slice called a quantum. After the quantum ends, the OS switches to the next task, allowing multiple tasks whether from one user or many to run smoothly on a single system.
-Types-of-OS-01
+
 Allows multiple tasks to run by giving each a small time slice for smooth, shared system use.
 Advantages
 Equal CPU Access: Each task gets a fair share of CPU time.
