@@ -1,13 +1,12 @@
-Introduction
  
-Computer & Internet Basics
-What is a computer?
-What is a server?
-What is the internet?
-Understand the internet in simple terms
-Know the difference between a local machine and a server
-Difference between local machine & server
-what is open source software
+1.Computer & Internet Basics
+2.What is a computer?
+3.What is a server?
+4.What is the internet?
+5.Understand the internet in simple terms
+6.Know the difference between a local machine and a server
+7.Difference between local machine & server
+8.what is open source software
 
  1: Computer & Internet Basics (Beginner Notes)
  Learning Objective
