@@ -1,6 +1,8 @@
  
 1.Computer & Internet Basics
+
 2.What is a computer?
+
 3.What is a server?
 4.What is the internet?
 5.Understand the internet in simple terms
