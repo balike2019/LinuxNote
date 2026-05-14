@@ -1,4 +1,0 @@
-names of students
-john
-peter
-mary
